@@ -2,7 +2,7 @@
 
 $host="localhost";
 $username="root";
-$password="fredbo123";
+$password="********";
 $db_name="phpchat";
 
 $con=new mysqli($host, $username, $password, $db_name);
